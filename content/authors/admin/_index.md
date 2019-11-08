@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 interests:
 - Lithium-ion Batteries
@@ -42,15 +42,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:marquis@maths.ox.ac.uk  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/scottmar93/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Scottmar93
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,6 +67,21 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ I am a final year DPhil student in Applied Mathematics at the University of Oxford.
+ My DPhil project is on the mathematical modelling of lithium-ion batteries and is being
+ conducted in collaboration with Siemens. My focus within this project has been on the development of
+ reduced-order physics-based mathematical models of lithium-ion batteries which accurately
+ reproduce the behaviour of more detailed full-order physics-based models but at a fraction of
+ the computational cost. I have also been working collaboratively with other researchers and
+ software engineers to implement a suite of these reduced-order and full-order models within a
+ well-tested, well-documented, and easy-to-use software
+ called [PyBaMM](https://github.com/pybamm-team/PyBaMM).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+After my DPhil, I am really keen to build upon my work modelling lithium-ion batteries and apply
+my results and knowledge within industry. In particular, I would like to direct my focus
+towards improving battery diagnostic and control systems for
+electric vehicles and/or grid-scale energy storage.
+
+
+
+
