@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: DPhil Student
+role: DPhil Student in Applied Mathematics
 
 # Organizations/Affiliations
 organizations:
 - name: University of Oxford
-  url: ""
+  url: "https://www.maths.ox.ac.uk/"
+- name: InFoMM CDT
+  url: "https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt"
 
 # Short bio (displayed in user profile at end of posts)
 bio:

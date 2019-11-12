@@ -1,12 +1,13 @@
 ---
-title: "Response to Periodic Disturbances in the Glass Redraw Process"
+title: "Bayesian Parameter Estimation applied to
+the Li-ion Battery Single Particle Model
+with Electrolyte Dynamics"
 authors:
+- Antii Aitio
 - Scott G. Marquis
-- D. O'Kiely
-- P.D. Howell
-- U. Lange
-- I. M. Griffiths
-date: "2019-09-01"
+- Pedro Ascencio
+- David Howey
+date: "2019-11-08"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,13 +17,13 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Engineering Mathematics (Submitted)"
+publication: "International Federation of Automatic Control"
 publication_short: ""
 
-abstract: The redraw process is a method employed for the manufacture of glass sheets required for e.g. special optical filters, bendable displays, or wearable devices. During this process, a glass block is fed into a heater zone and drawn off to reduce its thickness. Fluctuations in the feed speed, the draw speed or the ambient temperature can all lead to irregularities in the final thickness profile. We present a linearized theory that allows the response to any given fluctuation to be computed, and obtain a simplified model in the high-frequency limit. The resulting framework allows for fast and efficient parameter sweeps that determine the most dangerous frequencies to be avoided and provide an important complementary tool for experimentalists working in the redraw process.
+abstract: This paper presents a fully Bayesian parameter estimation analysis for a type of lithium-ion batteries model, to determine the uniqueness, evaluate the sensitivity and quantify uncertainty of the model parameters with respect to an input-output prediction-estimation problem. The analysis considers a highly accurate single particle model with electrolyte dynamics, rigorously derived from an asymptotic analysis including electrode-average terms. The Bayesian approach used allows addressing multi-modal target distributions which enable a global analysis of the parameter space under non-restrictive scenarios. The analysis focuses on the identification problem under a set of discrete local states of charge in comparison with a continuous excursion of it. The performance of the methodology proposed is evaluated using synthetic data from multiple numerical simulations under diverse types of current excitations.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -32,7 +33,7 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
+# url: 'http://jes.ecsdl.org/content/166/15/A3693.abstract'
 url_pdf:
 url_code: ''
 url_dataset: ''
@@ -45,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Schematic of the glass redraw process.'
+  caption:
   focal_point: ""
   preview_only: false
 
