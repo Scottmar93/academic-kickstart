@@ -48,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption:
+  caption: Estimating the transference number at different states of charge.
   focal_point: ""
   preview_only: false
 

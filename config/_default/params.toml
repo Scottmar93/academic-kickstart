@@ -91,7 +91,7 @@ email = "marquis@maths.ox.ac.uk"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-# address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "Andrew Wiles Building", city = "Oxford", postcode = "OX2 6GG", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -162,7 +162,7 @@ docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 sharing = true
 
 # Link authors to their profile page? (true/false)
-link_authors = true
+link_authors = false
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
