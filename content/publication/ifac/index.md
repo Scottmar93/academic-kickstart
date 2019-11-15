@@ -10,6 +10,8 @@ authors:
 date: "2019-11-08"
 doi: ""
 
+weight: 0
+
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
 
