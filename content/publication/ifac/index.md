@@ -1,7 +1,7 @@
 ---
 title: "Bayesian Parameter Estimation applied to
 the Li-ion Battery Single Particle Model
-with Electrolyte Dynamics"
+with Electrolyte Dynamics (Submitted)"
 authors:
 - Antii Aitio
 - Scott G. Marquis

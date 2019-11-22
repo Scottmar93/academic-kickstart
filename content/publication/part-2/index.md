@@ -1,5 +1,5 @@
 ---
-title: "Asymptotic Reduction of a Li-ion Pouch Cell Model: Part II"
+title: "Asymptotic Reduction of a Li-ion Pouch Cell Model: Part II (In preparation)"
 authors:
 - Robert Timms
 - Scott G. Marquis

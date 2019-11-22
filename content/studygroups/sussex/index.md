@@ -1,15 +1,21 @@
 ---
-title: "Response to Periodic Disturbances in the Glass Redraw Process (Submitted)"
+title: "Electric Vehicle Degradation Study (Williams Advanced Engineering)"
 authors:
-- Scott G. Marquis
-- D. O'Kiely
-- P.D. Howell
-- U. Lange
-- I. M. Griffiths
-date: "2019-09-01"
+- Jonathan Carter
+- Sam Greenbank
+- William Holderbaum
+- Scott Marquis
+- Sara Merino Aceituno
+- Yu Merla
+- Robert Millar
+- Colin Please
+- Enrico Scalas
+- Haichen Shi
+- Valentin Sulzer
+date: ""
 doi: ""
 
-weight: -200
+
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
 
@@ -17,13 +23,13 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Engineering Mathematics (Submitted)"
+publication: ""
 publication_short: ""
 
-abstract: The redraw process is a method employed for the manufacture of glass sheets required for e.g. special optical filters, bendable displays, or wearable devices. During this process, a glass block is fed into a heater zone and drawn off to reduce its thickness. Fluctuations in the feed speed, the draw speed or the ambient temperature can all lead to irregularities in the final thickness profile. We present a linearized theory that allows the response to any given fluctuation to be computed, and obtain a simplified model in the high-frequency limit. The resulting framework allows for fast and efficient parameter sweeps that determine the most dangerous frequencies to be avoided and provide an important complementary tool for experimentalists working in the redraw process.
+abstract: Williams Advanced Engineering is the technology division of the Williams Formula 1 team. It provides world-class technical innovation, engineering, testing and manufacturing services to deliver energy-efficient performance to the motorsports, automotive, defence and healthcare sectors.  Williams have developed high power density batteries and electric motors for a range of applications and market sectors where high performance, endurance and predictability are key customer requirements. They have expertise in the design and manufacture of the Battery, Mo- tor Generator Unit, Inverter and Battery Management System.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -34,21 +40,23 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf:
+url_pdf: ""
+url_company: "https://www.williamsf1.com/advanced-engineering"
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'http://www.sussex.ac.uk/maths/research/essgi'
 url_video: ''
+url_docs: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Schematic of the glass redraw process.'
+  caption: 'Temperature profile for a lithium-ion pouch cell'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

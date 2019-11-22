@@ -24,6 +24,12 @@
   name = "Software"
   url = "#software"
   weight = 50
+
+[[main]]
+  name = "Study Groups"
+  url = "#studygroups"
+  weight = 55
+#
 #
 [[main]]
   name = "Contact"

@@ -7045,7 +7045,7 @@ body {
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
-  background-color: #fff;
+  background-color: white;
   margin-top: 70px;
   /* Offset body content by navbar height. */
   padding-top: 0;
@@ -7236,7 +7236,7 @@ small,
  *  Modals.
  **************************************************/
 .modal-content {
-  background: #fff; }
+  background: white; }
 
 .modal-title {
   margin: 0;
@@ -7786,7 +7786,7 @@ nav#navbar-main li.nav-item {
 .search-results {
   transform: scale(0);
   -webkit-transform: scale(0);
-  background-color: #fff;
+  background-color: white;
   bottom: 0;
   left: 0;
   right: 0;
@@ -7825,7 +7825,7 @@ nav#navbar-main li.nav-item {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-color: #fff;
+  background-color: white;
   padding-top: 2rem;
   padding-bottom: 1rem; }
 
@@ -8235,7 +8235,7 @@ ul.share li:hover i {
     opacity: 1; } }
 
 .home-section {
-  background-color: white;
+  background-color: #fafafa;
   padding: 110px 0 110px 0;
   animation: intro 0.3s both;
   animation-delay: 0.15s; }
@@ -8288,13 +8288,13 @@ ul.share li:hover i {
   padding-top: 50px; }
 
 .home-section:nth-of-type(even) {
-  background-color: #f7f7f7; }
+  background-color: #f0f0f0; }
 
 .dark .home-section {
-  background-color: #1d2127; }
+  background-color: #272935; }
 
 .dark .home-section:nth-of-type(even) {
-  background-color: #1d2127; }
+  background-color: #23252f; }
 
 @media screen and (max-width: 768px) {
   .home-section {
